@@ -25,3 +25,6 @@
 [submodule "image_processing_Assignment_29"]
 	path = image_processing_Assignment_29
 	url = git@github.com:schahinheidari/image_processing_Assignment_29.git
+[submodule "traitement_image"]
+	path = traitement_image
+	url = git@github.com:schahinheidari/traitement_image.git
